@@ -1,5 +1,3 @@
-website developed in PHP for sharing cooking ideas
-
-http://www.cookingculture.co.nf/index.php
+Website developed in PHP for sharing cooking ideas.
 
 August 2016
